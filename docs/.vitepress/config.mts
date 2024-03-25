@@ -3,6 +3,7 @@ import {defineConfig} from "vitepress";
 import {set_sidebar} from "../guide/set_sidebar.mjs";
 
 export default defineConfig({
+	base: "/simpleadmin-doc/",
 	title: "SimpleAdmin",
 	lang: "zh-CN",
 	description: "SimpleAdmin 官方文档",
