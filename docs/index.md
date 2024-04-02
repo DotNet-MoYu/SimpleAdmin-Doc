@@ -6,8 +6,8 @@ titleTemplate: 一个小而美的通用业务型后台管理系统
 
 hero:
   name: SimpleAdmin
-  text: SimpleAdmin后台管理系统
-  tagline: 一个小而美的通用业务型后台管理系统。
+  text: 小而美的后台管理系统
+  tagline: 前端Vue3+TS+Vite,后端Net6/7/8+SqlSugar
   actions:
     - theme: brand
       text: 手摸手文档
