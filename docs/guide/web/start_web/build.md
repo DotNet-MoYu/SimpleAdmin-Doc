@@ -53,4 +53,4 @@ pnpm run build:pro
  ```
 ## 启动Nginx
 cmd到nginx安装目录，执行命令`start nginx`,访问前端地址，如果能够访问前端页面则表示前端部署成功。
-![login.png](/public/build/login.png)
+![login.png](/build/login.png)
