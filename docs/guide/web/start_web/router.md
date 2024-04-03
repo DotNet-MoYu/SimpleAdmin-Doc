@@ -20,8 +20,9 @@
 ├ ├ ├─ dynamicRouter.ts       # 动态路由添加逻辑
 ├ │ └─ staticRouter.ts        # 静态路由配置
 ├ └─index.ts                  # 封装后的路由配置
-```
 └─
+```
+
 
 ## 路由参数
 
