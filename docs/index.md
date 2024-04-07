@@ -23,7 +23,7 @@ features:
     details: 前端基于 Vue3.3、Vite4、TS、Pinia、Element-Plus、TypeScript,后端基于.NET6/7/8、SqlSugar、MoYu等最新技术栈开发。
   - icon: 🔑
     title: 启动及运行
-    details: 自动生成数据库表和种子文件。  
+    details: 自动生成数据库表结构和种子文件。  
   - icon: ✨
     title: 简单易上手
     details: 项目代码没有过度封装，代码简单、易读，代码注释率>90%,并配备手摸手教学文档。
