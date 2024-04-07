@@ -22,8 +22,8 @@ features:
     title: 基于最新流行技术栈
     details: 前端基于 Vue3.3、Vite4、TS、Pinia、Element-Plus、TypeScript,后端基于.NET6/7/8、SqlSugar、MoYu等最新技术栈开发。
   - icon: 🔑
-    title: 启动及运行
-    details: 自动生成数据库表结构和种子文件。  
+    title: 支持国密加密
+    details: 是国内首个.NET内置国密算法且前后端分离快速开发平台。  
   - icon: ✨
     title: 简单易上手
     details: 项目代码没有过度封装，代码简单、易读，代码注释率>90%,并配备手摸手教学文档。
