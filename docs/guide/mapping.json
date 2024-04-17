@@ -12,7 +12,7 @@
 	"router.md": "路由和菜单",
 	"permission.md": "权限管理",
 	"request.md": "网络请求",
-	"build.md": "构建和部署",
+	"build_web.md": "构建和部署",
 	"advanced": "进阶",
 	"standard.md": "项目规范",
 	"theme.md": "主题配置",
@@ -21,5 +21,11 @@
 	"start_api": "开始",
 	"intro_api.md": "简介",
 	"quick_api.md": "快速上手",
-	"catalogue_api.md": "目录结构"
+	"catalogue_api.md": "目录结构",
+	"codefirst.md": "CodeFirst",
+	"build_api.md": "构建和部署",
+	"design": "功能设计",
+	"core": "架构核心",
+	"app": "系统应用",
+	"plugins": "功能插件"
 }
