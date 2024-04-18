@@ -26,7 +26,6 @@ api
 │  ├─Interface                         # 接口
 │  ├─Options                           # 配置转实体
 │  └─Service                           # 服务
-│          
 ├─SimpleAdmin.Core                     # 核心层
 │  │  Core.Development.json            # 核心层开发环境配置
 │  │  Core.Production.json             # 核心层生产环境配置
@@ -42,7 +41,7 @@ api
 │  ├─Extension                         # 扩展类
 │  ├─Options                           # 配置转实体
 │  ├─UnifyResult                       # 统一返回
-│  └─Utils                             # 常用工具类
+│  └─Utils                             # 工具类(验证码,图片处理,种子数据处理等)
 ├─SimpleAdmin.Plugin                   # 放置插件
 │  └─SimpleAdmin.Plugin.Aop            # Aop插件
 │      │  GlobalUsing.cs               # 全局引用

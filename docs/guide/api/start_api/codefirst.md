@@ -1,6 +1,6 @@
 <!-- CodeFirst  -->
 
-# CodeFirst
+# 数据库实体
 
 ## 介绍
 传统开发中，通常采用DbFirst的方式开发，先有数据库和表，再将对应的表转为实体。随着技术的发展，开始有了CodeFist的方式开发，先创建实体类，再通过实体类反向的创建数据库和表结构，微软的EF框架就是典型，本系统使用的ORM是SqlSugar，同样也支持CodeFisrt，详情可以查看文档[SqlSugar文档](https://www.donet5.com/Doc/1/1206)。

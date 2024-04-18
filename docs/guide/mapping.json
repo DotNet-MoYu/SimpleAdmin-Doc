@@ -22,10 +22,10 @@
 	"intro_api.md": "简介",
 	"quick_api.md": "快速上手",
 	"catalogue_api.md": "目录结构",
-	"codefirst.md": "CodeFirst",
+	"codefirst.md": "数据库实体",
 	"build_api.md": "构建和部署",
-	"design": "功能设计",
-	"core": "架构核心",
-	"app": "系统应用",
-	"plugins": "功能插件"
+	"design": "设计",
+	"framework.md": "架构设计",
+	"core": "功能",
+	"plugins": "插件"
 }
