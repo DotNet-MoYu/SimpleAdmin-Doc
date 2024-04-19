@@ -26,6 +26,7 @@
 	"build_api.md": "构建和部署",
 	"design": "设计",
 	"framework.md": "架构设计",
+	"authentication.md": "权限设计",
 	"core": "功能",
 	"plugins": "插件"
 }
