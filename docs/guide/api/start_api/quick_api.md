@@ -98,5 +98,3 @@ dotnet new simpleadmin-n  xx  //创建项目 xx为项目名称
 vs打开项目直接运行，成功启动
 ![mobanchuangjian3.png](/startapi/mobanchuangjian3.png)
 
-胡国东 321183199606263618
-陈阳 321183199810284846

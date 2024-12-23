@@ -12,6 +12,7 @@
 	"router.md": "路由和菜单",
 	"permission.md": "权限管理",
 	"request.md": "网络请求",
+	"mqtt.md": "消息通知",
 	"build_web.md": "构建和部署",
 	"advanced": "进阶",
 	"standard.md": "项目规范",
@@ -28,5 +29,7 @@
 	"framework.md": "架构设计",
 	"authentication.md": "权限设计",
 	"core": "功能",
+	"message.md": "消息中心",
 	"plugins": "插件"
 }
+
